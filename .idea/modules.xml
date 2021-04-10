@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/junit.iml" filepath="$PROJECT_DIR$/.idea/junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflectionAndAnnotation/maven01.iml" filepath="$PROJECT_DIR$/reflectionAndAnnotation/maven01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflectionAndAnnotation/testJunit/testJunit.iml" filepath="$PROJECT_DIR$/reflectionAndAnnotation/testJunit/testJunit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflectionAndAnnotation/testMyJunit/testMyJunit.iml" filepath="$PROJECT_DIR$/reflectionAndAnnotation/testMyJunit/testMyJunit.iml" />
+    </modules>
+  </component>
+</project>
